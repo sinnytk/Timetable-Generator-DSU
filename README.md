@@ -17,6 +17,7 @@ An automated university timetable scheduler for *DHA Suffa University*, moderate
 - What are heuristic and meta-heuristic algorithms?
 - What are genetic algorithms?
 
+### Discoveries:
 
 ## Contributors
 ### [Tarun Kumar](https://github.com/sinnytk)
