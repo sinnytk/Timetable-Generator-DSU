@@ -18,6 +18,7 @@ An automated university timetable scheduler for *DHA Suffa University*, moderate
 - What are genetic algorithms?
 
 ### Discoveries:
+- Conference dedicated to automated TT scheduling [*Practice and Theory of Automated Timetabling (PATAT)*](http://www.patatconference.org/)
 
 ## Contributors
 ### [Tarun Kumar](https://github.com/sinnytk)
