@@ -12,10 +12,11 @@ An automated university timetable scheduler for *DHA Suffa University*, moderate
 ### Resources to read up on: 
 
 
+### Concepts to research:
 
 
 ## Contributors
-### Tarun Kumar
-### Bahawal Baloch 
+### [Tarun Kumar](https://github.com/sinnytk)
+### [Bahawal Baloch](https://github.com/bahawal32)
 
 
