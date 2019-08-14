@@ -36,11 +36,11 @@ An automated university timetable scheduler for *DHA Suffa University*, moderate
     As the name suggests, genetic algorithms are derived from Genetic Biology. It's a heuristic inspired by Charles Darwin's theory of evolution. 
     Using a iterative mutation and survival of fittest concept, we produce the best solution set with fittest(in our case, least clashes) combinations.
     Genetic algorithms have 5 phases:
-        - Initial population (random population to start the evolution)
-        - Fitness function (function to determine fitness of individual. In our case least clashes)
-        - Selection (selecting the most fittest individuals)
-        - Crossover (using a random point in chromosome, exchange genes between most fittest individuals)
-        - Mutation (to improve diversity, using a random point in fittest chromosomes, replace gene)
+     - Initial population (random population to start the evolution)
+     - Fitness function (function to determine fitness of individual. In our case least clashes)
+     - Selection (selecting the most fittest individuals)
+     - Crossover (using a random point in chromosome, exchange genes between most fittest individuals)
+     - Mutation (to improve diversity, using a random point in fittest chromosomes, replace gene)
     Using this process to replace the weakest individuals with offspring of the fittest individuals, at one point in the this we may find an optimum solution set where least clashes exist
     
     How does the algorithm work?
